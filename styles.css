@@ -1,0 +1,15 @@
+body {
+background-color: black
+}
+
+html {
+    font-family: Roboto, sans-serif;
+  }
+
+  h1 {
+      font-size: larger;
+      color:white;
+  }
+  p {
+      color: white;
+  }
