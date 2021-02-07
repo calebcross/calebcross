@@ -9,6 +9,7 @@ html {
   h1 {
       font-size: larger;
       color:white;
+      
   }
   h2 {
       color: teal
@@ -16,7 +17,12 @@ html {
   p {
       color: white;
   }
-
-  div {
+li {
+    color:white;
+}
+  .container {
       margin: 20pt;
+  }
+   .styled-image{
+      border:white
   }
