@@ -13,3 +13,7 @@ html {
   p {
       color: white;
   }
+
+  div {
+      margin: 10pt;
+  }
