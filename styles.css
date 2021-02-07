@@ -10,10 +10,13 @@ html {
       font-size: larger;
       color:white;
   }
+  h2 {
+      color: teal
+  }
   p {
       color: white;
   }
 
   div {
-      margin: 10pt;
+      margin: 20pt;
   }
