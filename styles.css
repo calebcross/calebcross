@@ -7,7 +7,8 @@ html {
   }
 
   h1 {
-      font-size: larger;
+      font-size: 45pt;
+      justify-content: center;
       color:white;
       
   }
@@ -25,13 +26,13 @@ ul {
 }
   .container {
       margin: 20pt;
+      justify-content: center;
   }
    .styled-image{
-      flex-grow: 0;
-    flex-shrink: 0;
-    align-self: stretch;
-    width: 286px;
-    height: unset;
+    width: 600px; /* width of container */
+    height: 300px; /* height of container */
+    overflow: hidden;
+    border: 5px solid white;
     margin: -16px 24px -16px -24px;
     border-radius: 4px 0px 0px 4px;
   }
