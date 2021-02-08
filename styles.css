@@ -8,7 +8,8 @@ html {
 
   h1 {
       font-size: 45pt;
-      justify-content: center;
+      margin: auto;
+      size: 30%;
       color:white;
       
   }
@@ -25,8 +26,8 @@ ul {
     color: white;
 }
   .container {
-      margin: 20pt;
-      justify-content: center;
+      margin: auto;
+      width: 60%;
   }
    .styled-image{
     width: 600px; /* width of container */
