@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Back to Normal](https://github.com/calebcross/Backtonormal)
 
-- 🌱 I’m currently learning **Python,**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **GraphQL, Technical Writing, Data Visualization**
 
