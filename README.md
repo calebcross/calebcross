@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caleb</h1>
+<h1 align="center">Hi 👋🏿, I'm Caleb</h1>
 <h3 align="center">Software Engineer looking for a mission driven company</h3>
 
 - 🔭 I’m currently working on [Back to Normal](https://github.com/calebcross/Backtonormal)
