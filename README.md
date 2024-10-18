@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋🏾, I'm Caleb</h1>
 <h3 align="center">Software Engineer looking for a mission driven company</h3>
 
-- 🔭 I’m currently working on [Back to Normal](https://github.com/calebcross/Backtonormal)
+- 🌱 I’m currently want to learn **Rust**
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **GraphQL, Technical Writing, Data Visualization**
+- 💬 Ask me about **GraphQL, Design Systems, Content Management Systems, Data Visualization**
 
 - 📫 How to reach me **calebcross@live.com**
 
